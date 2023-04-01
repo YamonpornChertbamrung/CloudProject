@@ -20,5 +20,6 @@
     "eslint": "^8.37.0",
     "eslint-plugin-vue": "^9.10.0",
     "nodemon": "^2.0.22"
-  }
+  },
+  "type": "commonjs"
 }
